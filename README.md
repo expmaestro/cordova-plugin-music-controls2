@@ -4,8 +4,6 @@
 
 Music controls for Cordova applications. Display a 'media' notification with play/pause, previous, next buttons, allowing the user to control the play. Handles headset events (plug, unplug, headset button).
 
-This plugin is forked from the original which is no longer maintained but which can be found at:
-https://github.com/expmaestro/cordova-music-controls-plugin
 
 This plugin is renamed as cordova-plugin-music-controls2 for easy differentiation and to allow for publishing
 updates to npm to make life easier for everyone.
@@ -19,7 +17,7 @@ updates to npm to make life easier for everyone.
 - Current release
 `npm install cordova-plugin-music-controls2`
 - Bleeding edge direct from github
-`cordova plugin add https://github.com/ghenry22/cordova-plugin-music-controls2`
+`cordova plugin add https://github.com/expmaestro/cordova-plugin-music-controls2`
 
 ## Methods
 - Create the media controls:
