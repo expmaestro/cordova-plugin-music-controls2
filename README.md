@@ -14,9 +14,6 @@ updates to npm to make life easier for everyone.
 - iOS 8+ (by [0505gonzalez](https://github.com/0505gonzalez))
 
 ## Installation
-- Current release
-`npm install cordova-plugin-music-controls2`
-- Bleeding edge direct from github
 `cordova plugin add https://github.com/expmaestro/cordova-plugin-music-controls2`
 
 ## Methods
